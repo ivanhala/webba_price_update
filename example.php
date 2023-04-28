@@ -25,3 +25,4 @@ function custom_webba_after_pricing_rule_applied( $default_price, $booking, $boo
 	return $default_price;
 
 }
+ 
